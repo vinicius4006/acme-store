@@ -3,7 +3,7 @@
 -> Para baixar ou copiar o projeto em sua máquina:<br><br/>
     1. Clique no botão de nome **Code** e depois selecione **Download ZIP** para baixá-lo.<br><br/>
     2. Ou pelo **Git Clone** copiando a **URL** disponibilizada o clicar no botão **Code**, é preciso ter
-    o **git** instalado na sua máquina.<br><br/>
+    o **git** instalado na sua máquina. Não se esqueça de trocar a branch para **master** para clonar o projeto.<br><br/>
 
 -> Para ligar o projeto você precisará ter na sua máquina:<br><br/>
     1. **Flutter**<br><br/>
