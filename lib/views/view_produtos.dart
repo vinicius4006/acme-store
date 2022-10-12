@@ -40,7 +40,7 @@ class _ViewProdutosState extends State<ViewProdutos> {
     return Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title: const Text('Loja ACME'),
+          title: const Text('Acme Inc'),
           actions: [
             PopupMenuButton(
               icon: const Icon(Icons.more_vert),

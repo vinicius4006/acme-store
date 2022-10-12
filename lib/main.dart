@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => ListaPedidos())
       ],
       child: MaterialApp(
-        title: 'Loja Acme',
+        title: 'Acme Inc',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
             colorScheme: const ColorScheme(
