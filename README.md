@@ -1,4 +1,4 @@
-# Loja Acme
+# Acme Inc
 
 -> Para baixar ou copiar o projeto em sua máquina:<br><br/>
     1. Clique no botão de nome **Code** e depois selecione **Download ZIP** para baixá-lo.<br><br/>
