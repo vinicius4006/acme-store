@@ -72,7 +72,7 @@ class CarrinhoItemWidget extends StatelessWidget {
           }
         },
         onDismissed: (direction) {
-          if (direction == DismissDirection.endToStart) {
+          if (direction == DismissDirection.startToEnd) {
             context.read<Carrinho>().removerItem(carrinhoItem.produtoId);
           }
         },
